@@ -17,7 +17,7 @@
     $ cd Desktop
     $ mkdir Turbolist3r 
     $ cd Turbolist3r 
-    $ git clone https://github.com/kongali1720/Turbolist3r.git
+    $ git clone https://github.com/fleetcaptain/Turbolist3r.git
     $ ls
     $ cd Turbolist3r 
     $ ls
